@@ -1,0 +1,18 @@
+Title
+Jumpy Cat
+
+Description
+Can you touch the sky? Help Ginger and their friends achieve their dreams of reaching space in this easy-to-pu-up but difficult-to-master game. Jump off floating platforms while avoiding air mines! If you're a pro, try using the mines to launch yourself as high as possible!
+
+Game includes:
+-Multiple unlockable skins
+-Medals for reaching milestones
+-Rewarded adverts allow you to keep jumping even after death!
+
+More content coming soon...
+
+IAP
+com.stephenthegamedeveloper.jumpycat.golden_skin
+
+OAuth Client ID
+185387569554-vtmujc8k9elt514mgpvdpu3ha0ia8ofq.apps.googleusercontent.com
